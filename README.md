@@ -1,3 +1,6 @@
+Watch Me Do The Lab Here 
+https://www.loom.com/share/6cce304ef6934a0a8f58d73d218c311e
+
 #  Infrastructure as Code with Terraform
 
 **Author:** Dylan Bryson  
