@@ -1,7 +1,6 @@
 # Infrastructure as Code with Terraform
 
-**Author:** Dylan Bryson  
-**Role:** Cloud Security Specialist  
+**Author:** Dylan Bryson    
 **Video Walkthrough:** [▶ Watch on Loom](https://www.loom.com/share/6cce304ef6934a0a8f58d73d218c311e)
 
 ---
